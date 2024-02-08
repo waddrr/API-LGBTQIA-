@@ -1,0 +1,22 @@
+{
+    "noticias": [
+    {
+        "titulo": "Novo projeto de lei LGBTQIA+ apresentado no Congresso Nacional",
+        "fonte": "Agência Brasil",
+        "data": "2023-11-14",
+        "tema": "política",
+        "pais": "Brasil",
+        "idioma": "pt-br",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-11-14/novo-projeto-de-lei-lgbtqia-apresentado-no-congresso-nacional"
+    },
+    {
+        "titulo": "Estudo revela aumento da violência contra pessoas LGBTQIA+ na América Latina",
+        "fonte": "Human Rights Watch",
+        "data": "2023-10-17",
+        "tema": "violencia",
+        "pais": "America Latina",
+        "idioma": "pt-br",
+        "link": "https://www.hrw.org/pt/world-report/2023/country-chapters/americas/latin-america"
+    }
+    ]
+}
